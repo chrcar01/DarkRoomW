@@ -1,1 +1,1 @@
-First commit, your mileage more vary.
+Still the simplest, most hackable, distraction free text editor.
