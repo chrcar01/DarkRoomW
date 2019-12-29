@@ -1,1 +1,1 @@
-Still the simplest, most hackable, distraction free text editor.
+Still the simplest, most hackable, distraction free text editor.  Zipped up the ready to run exe here: [DarkRoomW-v1.0-Debug.zip](https://github.com/chrcar01/DarkRoomW/releases/download/v1.0/DarkRoomW-v1.0-Debug.zip)
